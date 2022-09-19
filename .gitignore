@@ -1,0 +1,15 @@
+.idea/
+*.iml
+
+.local/
+local/
+.env/
+env/
+.venv/
+venv/
+
+out/*table/
+out/*tbl/
+spark-warehouse/
+
+.ipynb_checkpoints/
