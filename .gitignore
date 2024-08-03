@@ -13,3 +13,6 @@ out/*tbl/
 spark-warehouse/
 
 .ipynb_checkpoints/
+
+*.log
+metastore_db/

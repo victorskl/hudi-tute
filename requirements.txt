@@ -1,2 +1,2 @@
-pyspark==3.3.0
-jupyterlab==3.4.6
+pyspark==3.5.1
+jupyterlab==4.2.4
